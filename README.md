@@ -1,3 +1,5 @@
+
+
 Password Generator
 This project is a simple password generator application that empowers users to create strong and secure passwords based on their specified criteria. The application runs in the browser, featuring dynamically updated HTML and CSS powered by JavaScript code.
 
@@ -24,12 +26,13 @@ Click the "Generate Password" button.
 Follow the prompts to specify your desired password length and character types.
 Review and copy the generated password.
 Screenshots
+![image](https://github.com/Samgreenfairyx/passwordgen/assets/150940744/4d0d7c7c-a0e7-421a-8a76-15e551a65a80)
 
 
 
 Deployment
 The live deployment of the Password Generator can be accessed here.
-
+https://samgreenfairyx.github.io/passwordgen/
 Installation
 To run this application locally, follow these steps:
 
